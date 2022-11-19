@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StoryBook</string>
+    <string-array name="animals">
+        <item>ნიამორი</item>
+        <item>იხვნისკარტა</item>
+        <item>თახვი</item>
+        <item>ძლოკვი</item>
+        <item>ქაიხოსრო (ქაქუცა)</item>
+        <item>კუ</item>
+        <item>თრითინა</item>
+    </string-array>
+</resources>
